@@ -1,4 +1,4 @@
-library(BiocInstaller)
+library(BiocManager)
 library(miRcomp)
 library(shiny)
 
